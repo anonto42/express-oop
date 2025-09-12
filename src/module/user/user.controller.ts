@@ -1,4 +1,3 @@
-
 import { Middleware } from "../../decorators/middleware";
 import { RequestMethod } from "../../decorators/RequestMethord";
 import { Route } from "../../decorators/Route";
